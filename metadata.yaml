@@ -1,7 +1,10 @@
 _repo: Scripture-Histories-from-the-Creation-of-the-World-to-the-Death-of-Jesus-Christ-With-a-Descri__62439
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Scripture Histories; from the Creation of the World, to the Death\
   \ of Jesus Christ\r\nWith a Description of St. Paul's Cathedral, London"
+covers:
+- cover_type: archival
+  image_path: 62439-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62439#Scripture-Histories-from-the-Creation-of-the-World-to-the-Death-of-Jesus-Christ-With-a-Descri_
 gutenberg_issued: '2020-06-20'
 gutenberg_type: Text
 identifiers:
